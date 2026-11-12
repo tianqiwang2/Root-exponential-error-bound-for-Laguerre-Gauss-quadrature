@@ -25,3 +25,7 @@ Sihong Shao, Tianqi Wang, "Root-exponential asymptotic error bound for Laguerre-
 ## Contact
 
 For questions or comments regarding this work, please contact the authors.
+
+## Note
+
+An older version of this paper was submitted to arxiv on Oct 31, 2026. However, it was on hold until now. This version is updated on Nov 12, 2026.
