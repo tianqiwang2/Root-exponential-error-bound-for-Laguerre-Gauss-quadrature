@@ -28,4 +28,4 @@ For questions or comments regarding this work, please contact the authors.
 
 ## Note
 
-An older version of this paper was submitted to arxiv on Oct 31, 2026. However, it was on hold until now. This version is updated on Nov 12, 2026.
+An older version of this paper was submitted to arxiv on Oct 31, 2026. However, it was on hold until now. This version is updated on Nov 12, 2026. A shorter version of this paper has been submitted to Mathematics of Computation in the title of "Comment on 'Convergence analysis of Laguerre approximations for analytic functions [Math. Comp. 93 (2024) 2861]' ".
